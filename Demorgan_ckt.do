@@ -1,5 +1,3 @@
-restart -force
-
 vcom Demorgan_ckt.vhd
 vcom Demorgan_ckt_tb.vhd
 

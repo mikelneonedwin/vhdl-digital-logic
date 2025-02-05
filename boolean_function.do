@@ -1,5 +1,3 @@
-restart -force
-
 vcom boolean_function.vhd
 vcom boolean_function_tb.vhd
 

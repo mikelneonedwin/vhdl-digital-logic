@@ -1,5 +1,3 @@
-restart -force
-
 vcom half_adder.vhd
 vcom half_adder_tb.vhd
 

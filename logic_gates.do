@@ -1,5 +1,3 @@
-restart -force
-
 vcom logic_gates.vhd
 vcom logic_gates_tb.vhd
 
