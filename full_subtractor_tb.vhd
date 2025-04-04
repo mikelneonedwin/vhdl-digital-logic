@@ -8,7 +8,7 @@ end full_subtractor_tb;
 architecture testbench of full_subtractor_tb is
 
     --- register components
-    component full_adder 
+    component full_subtractor
         port (
             x,y,z: in std_logic;
             d,b: out std_logic

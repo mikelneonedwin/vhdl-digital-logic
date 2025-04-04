@@ -6,13 +6,13 @@ vsim work.full_subtractor_tb
 puts "x y z d b"
 
 run 100 ms
-examile sim:/full_subtractor_tb/*
+examine sim:/full_subtractor_tb/*
 
 run 100 ms
-examile sim:/full_subtractor_tb/*
+examine sim:/full_subtractor_tb/*
 
 run 100 ms
-examile sim:/full_subtractor_tb/*
+examine sim:/full_subtractor_tb/*
 
 run 100 ms
-examile sim:/full_subtractor_tb/*
+examine sim:/full_subtractor_tb/*
